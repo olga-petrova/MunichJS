@@ -1,0 +1,11 @@
+.talk {
+    margin: 10px;
+}
+.talk .name {
+    font-style: italic;
+    margin: 5px 0 5px 0;
+    color: darkgray;
+}
+.talk .topic {
+    font-weight: bold;
+}

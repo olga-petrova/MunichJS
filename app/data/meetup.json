@@ -1,0 +1,345 @@
+{
+    "success": true,
+    "meetup": [
+        {
+            "id": 1,
+            "date": "May 13, 2015, 19:00",
+            "talks": [
+                {
+                    "id": 1,
+                    "duration": "30m",
+                    "topic": "Getting Started with D3.js",
+                    "description": "You are thinking about including some nice charts and graphics in your current project? Learn how to create flexible and interactive visualizations with D3. The talk will show how to bind data to a visualization, tweak it’s appearance and add interactive elements. Live coding included.",
+                    "presenters":
+                        {
+                            "name": "Elisabeth Engel",
+                            "description": "UX developer working for a local software company (comSysto GmbH). Passionate about data visualizations, lean UX and startup spirit. Using D3.js for her Master’s Thesis project ‘Skillmazing’."
+                        }
+                },
+                {
+                    "id": 2,
+                    "duration": "20min",
+                    "topic": "Eine Alternative Architektur für Webseiten basierend auf Web GL",
+                    "description": "Im Rahmen meiner Bachelorarbeit habe ich mich mit dem Thema befasst, ein Grundkonzept für die den Aufbau von Webseiten zu erstellen, dass nicht auf HTML sondern auf Web GL basiert. Das Ziel ist es, ein JavaScript Framework zu entwickeln, mit dem sich Webseiten generieren lassen. Dem Nutzer wird eine Reihe von UI-Elementen (3D) zur Verfügung gestellt, die beliebig verändert und miteinander kombiniert werden können.",
+                    "presenters":
+                        {
+                            "name": "Simon Ittmann",
+                            "description": "Ich bin Student der Hochschule München, im Studiengang Informatik und schreibe gerade meine Bachelorarbeit."
+                        }
+                },
+                {
+                    "id": 3,
+                    "duration": "30m",
+                    "topic": "openCPQ – A React-Based Product-Configuration Toolkit",
+                    "description": "The talk presents the new open-source project openCPQ for the web-based configuration of complex products. In contrast to popular commercial configuration tools openCPQ uses the browser not only for the UI but also for the business logic, which makes configurators extremely fast by avoiding round trips to the server, supports modelling of configuration rules embedded in JavaScript, which permits user-defined abstractions in a flexible way, and recomputes the configuration result from scratch instead of incrementally propagating changes in the user input, which fits nicely with React’s architecture and makes openCPQ a light-weight framework.",
+                    "presenters":
+                        {
+                            "name": "Tim Geisler and Heribert Schütz",
+                            "description": "Co-founders of webXcerpt Software GmbH, have worked on all aspects of product configuration for many years. Based on this experience they had the idea that the capabilities of today’s browsers allow to simplify the architecture of product configurators."
+                        }
+                },
+                {
+                    "id": 4,
+                    "duration": "30m",
+                    "topic": "Introduction to Flux",
+                    "description": "Flux is a software design principle for app architectures developed by Facebook. How is it different to a normal “MVC” and why do apps developed with Flux scale naturally as the code size gets bigger and bigger? This presentation will give you a background what’s the problem with building large scale apps and describes to you how to arrive at modular, simple scaleable Flux setup from an traditional MVC one. Last but not least the presentation will cover tips and tricks for Flux as well as discusses different Flux implementations.",
+                    "presenters":
+                        {
+                            "name": "Julian Viereck",
+                            "description": "Currently studying at ETH Zurich, Julian started working on Open Source JavaScript projects back in 2009. He has a deep technical understanding of the Web and likes the web as a platform to move forward. In the past he worked on Mozilla Firefox, interned at Google Munich and is going to intern at Facebook over the summer next."
+                        }
+                }
+            ],
+            "sponsors": [
+                "Bayerischer Rundfunk"
+            ],
+            "company": "Bayerischer Rundfunk",
+            "place": "Rundfunkplatz 1, München",
+            "going": 200,
+            "comments": 1
+        },
+        {
+            "id": 2,
+            "date": "March 5, 2015, 19:00",
+            "talks": [
+                {
+                    "id": 5,
+                    "duration": "20m",
+                    "topic": "Advancing JS and breaking the web?",
+                    "presenters": {
+                        "name": "Christian Heilmann"
+                    },
+                    "description": "Oh, JavaScript. People hate, it, people love it, people want to replace it, and yet it stayed for years. In this quick talk I shall remind us what we had, how lucky we are now, what we should do and how we can advance the language without breaking the web."
+                },
+                {
+                    "id": 6,
+                    "duration": "40min",
+                    "topic": "UX Research – One without all, please",
+                    "presenters": {
+                        "name": "Christina Eckleder"
+                    },
+                    "description": "Für UX Research braucht man doch einen Psychologen, oder? Außerdem dauert das doch lange und mit weniger als 20 Probanden, braucht man doch gar nicht erst anzufangen? - Um UX Research ranken sich viele Mythen und oft werden Usertests und andere Methoden nicht in betracht gezogen, weil diese als zu zeit- und kostenintensiv empfunden werden. Erfahren Sie in dieser Session wie viel UX Research mit überschaubaren Kosten durchgeführt werden kann und wie sie diesen Vorteil gerade in agilen Prozessen nutzen können, um die User Experience eines Produktes zu steigern."
+                },
+                {
+                    "id": 7,
+                    "duration": "55m",
+                    "topic": "Why AngularJS isn't always the best choice",
+                    "presenters": {
+                        "name": "Robin Böhm, Philipp Tarasiewicz"
+                    },
+                    "description": "You are working with AngularJS or plan to adapt it soon? Consider to attend our talk beforehand to get a critical insight into AngularJS. Why are we, as AngularJS advocates, starting new projects opposing our initial views on AngularJS? What is AngularJS doing wrong? Why? How could it be improved? Are other frameworks providing more? Will Angular 2.0 be an improvement? Why are there no pleasant solutions to date, whereas full-stack frameworks were able to provide those years ago? We are trying to answer the broad spectrum of questions raised by you. But be warned! This talk could give you a reality check, although it’s far too late! We combine two years of experience in full-time consulting and a thorough knowledge of AngularJS to cut right to the chase of the matter."
+                }
+            ],
+            "sponsors": [
+                "BörseGo AG",
+                "Werk 1"
+            ],
+            "company": "Werk 1",
+            "place": "Grafinger Str. 6, 81671 München",
+            "going": 122,
+            "comments": 12
+        },
+        {
+            "id": 3,
+            "date": "January 8, 2015, 19:00",
+            "talks": [
+                {
+                    "id": 8,
+                    "duration": "20 min",
+                    "topic": "Mobile web apps with ‘native app’ features",
+                    "description": "Native apps allow you to take full advantage of all the device features. The downside? You have to develop, well, native apps. That’s a steep learning curve if you are a web developer. But did you know how easy it is to access motion sensors in mobile browsers? Or that that you can access geolocation data? You can read gyroscope and accelerometer data in your web app and it is stunningly simple. In fact, so simple, that I can show you how to capture motion sensor data with just a few lines of code. We’ll also take a peek at ServiceWorker, a new feature for the web platform that lets a script persistently cache resources and handle all resource requests for an application.With ServiceWorker you can build web apps that work offline. You can use it as a basis for “background” features such as push messaging and background sync. Allowing you to build web apps with even more native app features.",
+                    "presenters":
+                        {
+                            "name": "Franziska Hinkelmann",
+                            "description": "Software consultant at TNG Technology Consulting. PHP developer during the day, JavaScript at night."
+                        }
+                },
+                {
+                    "id": 9,
+                    "duration": "20 min",
+                    "topic": "The LeBroN stack",
+                    "description": "LeBroN – that’s LevelDB, Browserify and Npm – is a triumvirate of technologies that lets you create applications for the web in a very lightweight and lean manner. Covering data storage, realtime updates, packaging and package management, you can quickly create applications that do a lot. I’ll live code a real time chat (or something like that), composing many small parts and show casing the simplicity and effectiveness of the abstractions at hand.",
+                    "presenters":
+                        {
+                            "name": "Julian Gruber",
+                            "description": "I’m a full stack software engineer from southern Germany, involved in many open source projects, as well as shipping node for Mic.com. Check out my GitHub: https://github.com/juliangruber."
+                        }
+                },
+                {
+                    "id": 10,
+                    "duration": "20 min",
+                    "topic": "Web icon pain killer",
+                    "description": "Utilizing pixel-based icons in the era of responsive web design and retina displays is pointless. But the often used icon fonts approach has several disadvantages, too. To make them look consistent on different devices and operating systems can be a pain. This talk introduces you to a more modern web icon system.",
+                    "presenters":
+                        {
+                            "name": "Mario Volke",
+                            "description": "Mario Volke has been working as freelance web developer since 2006. He finished his studies with a degree in Master of Computer Science in 2012. His main interest is to combine modern web technologies with the best possible user experience."
+                        }
+                },
+                {
+                    "id": 11,
+                    "duration": "20 min",
+                    "topic": "ReactJS + Tests",
+                    "description": "I will show you ReactJS and the power of it. Then I take a step back and show you that UI is not hard to test, especially not with React.",
+                    "presenters":
+                        {
+                            "name": "Wolfram Kriesing",
+                            "description": "I sleep better when I verified that I turned off the light. And I also sleep better when all tests are green. And I always bite myself when I merge and don’t run the tests again and push. Ouch. #learning"
+                        }
+                }
+            ],
+            "sponsors": [
+                "Google Deutschland"
+            ],
+            "company": "Google Deutschland",
+            "place": "Dienerstraße 12, 80331 München",
+            "going": 60,
+            "comments": 19
+        },
+        {
+            "id": 4,
+            "date": "November 6, 2014, 18:30",
+            "talks": [
+                {
+                    "id": 12,
+                    "duration": "15 min",
+                    "topic": "Espruino Intro",
+                    "presenters": {
+                        "name": "Béla Varga"
+                    }
+                },
+                {
+                    "id": 13,
+                    "duration": "15 min",
+                    "topic": "Turning hardware into software",
+                    "presenters": {
+                        "name": "Patrick Mulder"
+                    }
+                },
+                {
+                    "id": 14,
+                    "duration": "15 min",
+                    "topic": "Tessel and PubNub",
+                    "description": "Tessel is a modular microcontroller that runs JavaScript. It’s Node-compatible and ships with Wifi built in. Use it to easily make physical devices that connect to the web.",
+                    "presenters": {
+                        "name": "Dave Nugent"
+                    }
+                }
+            ],
+            "sponsors": [
+                "financial.com AG",
+                "PubNub"
+            ],
+            "company": "financial.com AG",
+            "place": "Georg-Muche-Straße 3, 80807 München",
+            "going": 35,
+            "comments": 17
+        },
+        {
+            "id": 5,
+            "date": "September 4, 2014, 19:00",
+            "talks": [
+                {
+                    "id": 15,
+                    "duration": "30 min",
+                    "topic": "JavaScript and AngularJS in an enterprise environment",
+                    "description": "JavaScript coding is fun for sure! But does client MV* frameworks scale up for banking applications like the Personal Finance Manager of DAB-Bank? The result, applications architecture & decisions made are presented.",
+                    "presenters":
+                        {
+                            "name": "David Amend, Philipp Röben",
+                            "description": "David Amend ist jahrelanger Entwickler mit Java basierten Web Frameworks und Services im Banking-Umfeld und hat den Wechsel zu JavaScript basierten Lösung für Web-Projekte vollzogen. Dabei hat er Spaß daran, das Erfolgsrezept moderner Webentwicklung in Vorträgen, Publikationen, und in Projekten weiter zu geben."
+                        }
+                },
+                {
+                    "id": 16,
+                    "duration": "30 min",
+                    "topic": "Blogging and Writing on JavaScript",
+                    "description": "In this talk, I want to share some learnings I made on writing about JavaScript. Starting with simple blog posts and interaction with JavaScript news aggregators. Writing is a matter of practice, and if you keep some routine, why not start writing a book?",
+                    "presenters":
+                        {
+                            "name": "Patrick Mulder",
+                            "descritption": "Patrick Mulder is a freelance software consultant focusing on JavaScript, web interfaces, and measurement systems. He worked as a software engineer for many companies and recently published the book “Full Stack Web Development with Backbone.js”."
+                        }
+                },
+                {
+                    "id": 17,
+                    "duration": "40 min",
+                    "topic": "Building JavaScript applications based on Domain-driven Design",
+                    "description": "Model-View-Controller (MVC) was born in the 1970s and is still one of the most used architectural patterns in the software world. On top of that it’s common to connect Data-Models using Object-relational Mapping (ORM) to a Database and provide easy Create-Read-Update-Delete (CRUD) Routes as an API for applications. In this talk I will show an alternative approach and how to easily apply it using JavaScript. Live coding included. In the process the audience will learn about Domain-driven Design (DDD), Command Query Responsibility Seggregation (CQRS), EventSourcing and how to explicitly capture your domain events – something the ThoughtWorks TechnologyRadar2014 also outlined as an emerging technique, because it makes developers and business people happy.",
+                    "presenters":
+                        {
+                            "name": "Johannes Becker",
+                            "description": "Johannes Becker: Remote Freelancer who found true love in Domain-driven Design, Node.js and DevOps. Passionate about Free Software and a Free Internet."
+                        }
+                }
+            ],
+            "sponsors": [
+                "DAB Bank AG"
+            ],
+            "company": "DAB Bank AG",
+            "place": "Landsberger Str. 300, 80687 München",
+            "going": 130,
+            "comments": 19
+        },
+        {
+            "id": 6,
+            "date": "August 4, 2014, 19:00",
+            "talks": [
+                {
+                    "id": 18,
+                    "topic": "Browser security in Google Chrome",
+                    "presenters": {
+                        "name": "Nasko Oskov"
+                    },
+                    "description": "This talk will explore the current state of web browser security. It will cover the basic design architecture behind the Chromium browser, what has been done to make it harder to attack and exploit, the different approaches the security team takes and more. Security is a road with no end in sight, but the talk will discuss ongoing projects to further improve in the future. Nasko Oskov is a security engineer working on the Chromium browser. He has spent most of his energy on the defensive side of computer security working on the building blocks of technology - operating systems, authentication protocols, and now browsers."
+                }
+            ],
+            "sponsors": [
+                "TechDivision"
+            ],
+            "company": "TechDivision",
+            "place": "Balanstraße 73, 81541 München",
+            "going": 8,
+            "comments": 4
+        },
+        {
+            "id": 7,
+            "date": "July 10, 2014, 19:00",
+            "talks": [
+                {
+                    "id": 19,
+                    "topic": "JavaScript development with WebStorm: Tips and Tricks",
+                    "presenters": {
+                        "name": "Leonid Khachaturov"
+                    }
+                }
+            ],
+            "sponsors": [
+                "JetBrains"
+            ],
+            "company": "JetBrains",
+            "place": "Elsenheimerstraße 47, 80687 München",
+            "going": 40,
+            "comments": 4
+        },
+        {
+            "id": 8,
+            "date": "May 8, 2014, 19:00",
+            "talks": [
+                {
+                    "id": 20,
+                    "duration": "40 min",
+                    "topic": "Konflikt und „Gewaltfreie Kommunikation“",
+                    "description": "In dem Vortrag skizziere ich zunächst kurz Modelle der Konfliktentstehung. Im zweiten Teil stelle ich Ihnen die Grundsätze der Gewaltfreien Kommunikation nach M.B. Rosenberg vor und berichte aus der praktischen Anwendung im beruflichen Alltag des Konfliktmanagements.",
+                    "presenters":
+                        {
+                            "name": "Alice von Bezold",
+                            "description": "Im Hauptberuf bin ich selbständige Rechtsanwältin und Fachanwältin für Insolvenzrecht in München. Die Effektivität und Haltung der Gewaltfreien Kommunikation (GfK) nach M.B. Rosenberg haben mich so überzeugt, dass ich Methode und Haltung vertieft gelernt habe und als Mediatorin und Coach und in Moderationen anwende. Seit einigen Jahren gebe ich mein Wissen und meine Erfahrung in Workshops und Vorträgen weiter. Es macht mir große Freude, Konflikte rasch und kooperativ zu bereinigen."
+                        }
+                },
+                {
+                    "id": 21,
+                    "duration": "20 min",
+                    "topic": "TypeScript 1.0: a pragmatic introduction",
+                    "description": "I’ve been following the development of TypeScript since I heard about it one and a half years ago. Not too long ago, TypeScript 1.0 was announced at Build. This seems like an opportune time to present it at MunichJS. TypeScript is a JavaScript superset that adds optional types to JavaScript. Hence, it allows more sophisticated type inferring which enables significantly improved development experiences. On top of that, TypeScript adds interfaces and suggests patterns for classes and promises. TypeScript is being developed by Anders Hejlsberg who created C# as well. In my talk I want to introduce and discuss TypeScript in a pragmatic way by showing the backend of Mils.",
+                    "presenters":
+                        {
+                            "name": "Alexander-Derek Rein",
+                            "description": "Alexander-Derek Rein is a computer scientist with his mind on politics. He is co-founder and CTO at Mils and master thesis student at BMW."
+                        }
+                },
+                {
+                    "id": 22,
+                    "duration": "20 min",
+                    "topic": "JavaScript security",
+                    "description": "This talk will focus on HTML5 as a platform for building secure applications in general and also specifically zero-knowledge apps using client-side encryption (like we do at whiteout.io).",
+                    "presenters":
+                        {
+                            "name": "Tankred Hase",
+                            "description": "I’m Co-founder and CTO at Whiteout Networks and have been developing JavaScript professionally for the past 4 years. I love working in open source and am a core contributor to OpenPGP.js."
+                        }
+                },
+                {
+                    "id": 23,
+                    "duration": "20 min",
+                    "topic": "JavaScript as the first programming language for children",
+                    "description": "This talk is about how to teach children programming and why to choose JavaScript as the first programming language.",
+                    "presenters":
+                        {
+                            "name": "Béla Varga",
+                            "description": "I´m the founder of MunichJS and the CoderDojo in Munich. As part time freelancer I working for Ecmanauten and i teaching at the University of Applied Sciences in Salzburg"
+                        }
+                }
+            ],
+            "sponsors": [
+                "Whiteout Networks",
+                "WERK1 München",
+                "Simplora GmbH"
+            ],
+            "company": "Werk 1",
+            "place": "Grafinger Str. 6, 81671 München",
+            "going": 102,
+            "comments": 2
+        }
+    ]
+}
