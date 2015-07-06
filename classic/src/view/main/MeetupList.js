@@ -14,6 +14,6 @@ Ext.define('MunichJS.view.main.MeetupList', {
     ],
 
     store: {
-        type: 'meetup'
+        type: 'Meetup'
     }
 });

@@ -15,7 +15,7 @@ Ext.define('MunichJS.view.main.Chart', {
     layout: 'fit',
 
     store: {
-        type: 'meetup',
+        type: 'Meetup',
         autoLoad: true
     },
 
