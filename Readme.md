@@ -1,5 +1,8 @@
 # MunichJS
 
+Installation guide
+(it is needed because it is not allowed to upload source code of ExtJS to GitHub)
+
 1) Download ExtJS 6 (https://www.sencha.com/products/extjs/evaluate/) and Sencha Cmd 6 (https://www.sencha.com/products/extjs/cmd-download/)
 2) Install Sencha Cmd 6
 3) Run command from the root folder of your website:
